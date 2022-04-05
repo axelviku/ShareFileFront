@@ -6,12 +6,10 @@
 }
 
 body {
-  font-family: system-ui;
-  background: var(--main-bg-color);
+   font-family: system-ui;
   height: 100vh;
   display: flex;
   flex-direction: column;
-  /* overflow: hidden; */
 }
 footer {
   width: 100%;
@@ -36,9 +34,7 @@ border-radius: 10px;
 }
 
 .image-vector {
-  width: 50vw;
-  height: 50vh;
-  
+  width: 50vw; 
 }
 
 body,
